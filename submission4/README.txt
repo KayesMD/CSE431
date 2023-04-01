@@ -2,16 +2,16 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/project/6426b61524296e65f9b46ec8
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/en6dd3MmLqs
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Spelling Correction
+FEW-SHOT TEXT CLASSIFICATION
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/18jb6VfxNnVFhlADSZB0xb0PrUBkLl1gclr6hwnHnt1w/
 
 Paper submission date (to workshop/conference):
 25 October 1999
